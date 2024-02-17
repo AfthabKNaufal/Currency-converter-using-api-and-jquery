@@ -1,0 +1,81 @@
+body{background: url('https://c0.wallpaperflare.com/preview/442/678/453/money-bank-wallet-cash.jpg');
+background-size: cover;
+background-repeat: no-repeat;}
+
+
+h1{color: rgb(0, 0, 0);
+    font-style: normal;
+    font-weight: revert;
+    position: relative;
+    top: -29px;
+  }
+
+#amount1{
+    padding: 10px;
+  border-radius: 10px;
+  margin-left: 100px;
+}
+
+#amount2{
+    margin-left: 208px;
+  padding: 10px;
+  border-radius: 10px;
+  position: absolute;
+  left: 59px;
+}
+
+
+.currency{
+    width: 100px;
+  padding: 12px;
+  border-radius: 10px;
+  background: white;
+  position: relative;
+  left: 23px;
+}
+
+.currency2{
+    width: 100px;
+  padding: 12px;
+  margin-top: 10px;
+  border-radius: 10px;
+  background: white;
+}
+
+.container2{
+    
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.container-sm{
+    position: relative;
+    top: -26px;
+    left: 22px;
+  
+}
+
+.block1
+{
+    background-color: rgba(255, 255, 255, 0.2);
+    position: absolute;
+  top: 100px;
+  left: 50px;
+  padding: 40px;
+  border-radius: 50px;
+}
+
+.convert_button
+{
+    position: relative;
+  width: 113px;
+  left: 158px;
+  top: 32px;
+  height: 50px;
+  border-radius: 20px;
+  border-color: aqua;
+  background-color: cadetblue;
+  background: transparent;
+}
+
+
